@@ -26,7 +26,7 @@ session_start();
 <body class="hold-transition login-page">
   <div class="login-box">
     <div class="login-logo">
-      <a href=""><b>JANELA DE LOGIN</b></a>
+      <a href=""><b>JANELA DE LOGIN </b></a>
     </div>
     <div class="login-box-body">
       <p class="login-box-msg">Entre para iniciar sua sessão</p>
