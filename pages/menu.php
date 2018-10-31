@@ -49,31 +49,49 @@
   
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
-        <li class="header">Minhas Tarefas</li>
+        <li class="header">Execução</li>
         <li class="active treeview">
           <a href="index.php">
              <i class="fa fa-files-o"></i>
-            <span>Ver Tarefas</span>
+            <span>Minhas Tarefa</span>
           </a>        
         </li>
 
         <li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
-            <span>Tarefas feita</span>
+            <span>Tarefas Adiadas</span>
           </a>
         </li> 
 
         <li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
-            <span>Tarefas a fazer</span>
+            <span>Tarefas Finalizadas</span>
+          </a>
+        </li>
+
+         <li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
+            <span>Recorrentes</span>
           </a>
         </li>
 
 
+
+        <li class="header">Modelagem</li>
+        <li class="active treeview">
+          <a href="index.php">
+             <i class="fa fa-files-o"></i>
+            <span>Meus Fluxos</span>
+          </a>        
+        </li>
+
+
+
         
-          <li class="header">Minha Conta</li>
+          <li class="header">Monitoramento</li>
         <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Usuarios</span></a></li>
         <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Perfil</span></a></li>
       </ul>
