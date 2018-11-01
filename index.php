@@ -33,6 +33,9 @@ session_start();
   $pag[2] = "pages/minhas_tarefa.php";
   $pag[3] = "pages/tarefas_adiada.php";
   $pag[4] = "pages/tarefas_finalizadas.php";
+  $pag[5] = "pages/meus_fluxos.php";
+  $pag[6] = "pages/usuarios.php";
+  $pag[7] = "pages/perfil.php";
 
   $pag[00] = "sair.php";
 

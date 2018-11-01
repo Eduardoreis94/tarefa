@@ -72,7 +72,7 @@
         </li>
 
          <li class="treeview">
-          <a href="#">
+          <a href="">
             <i class="fa fa-files-o"></i>
             <span>Recorrentes</span>
           </a>
@@ -81,19 +81,15 @@
 
 
         <li class="header">Modelagem</li>
-        <li class="active treeview">
-          <a href="index.php">
-             <i class="fa fa-files-o"></i>
-            <span>Meus Fluxos</span>
-          </a>        
-        </li>
+        <li><a href="index.php?link=5"><i class="fa fa-files-o"></i><span>Meus Fluxos</span></a></li>
+        
 
 
 
         
           <li class="header">Monitoramento</li>
-        <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Usuarios</span></a></li>
-        <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Perfil</span></a></li>
+        <li><a href="index.php?link=6"><i class="fa fa-circle-o text-red"></i><span>Usuarios</span></a></li>
+        <li><a href="index.php?link=7"><i class="fa fa-circle-o text-yellow"></i> <span>Perfil</span></a></li>
       </ul>
     </section>
     <!-- /.sidebar -->
