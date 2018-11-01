@@ -37,10 +37,6 @@ session_start();
   $pag[00] = "sair.php";
 
 
-
-
-
-
   if (!empty($link)) {
     if (file_exists($pag[$link])) {
       include $pag[$link];
@@ -53,8 +49,7 @@ session_start();
   ?>
 
 
-  </div>
-
+ 
 
   
   <footer class="main-footer">
@@ -63,7 +58,7 @@ session_start();
     </div>
  
   </footer>
-
+ 
   
 
 

@@ -50,7 +50,7 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">Execução</li>
-        <li class="active treeview">
+        <li >
           <a href="index.php?link=2">
              <i class="fa fa-files-o"></i>
             <span>Minhas Tarefa</span>
