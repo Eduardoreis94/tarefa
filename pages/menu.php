@@ -51,21 +51,21 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">Execução</li>
         <li class="active treeview">
-          <a href="index.php">
+          <a href="index.php?link=2">
              <i class="fa fa-files-o"></i>
             <span>Minhas Tarefa</span>
           </a>        
         </li>
 
         <li class="treeview">
-          <a href="#">
+          <a href="index.php?link=3">
             <i class="fa fa-files-o"></i>
             <span>Tarefas Adiadas</span>
           </a>
         </li> 
 
         <li class="treeview">
-          <a href="#">
+          <a href="index.php?link=4">
             <i class="fa fa-files-o"></i>
             <span>Tarefas Finalizadas</span>
           </a>
